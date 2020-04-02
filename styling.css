@@ -1,0 +1,40 @@
+body {
+  background-color:#f4f4f4;
+  text-align:justify;
+}
+
+.container {
+  background-color:white;
+  padding:30px;
+  width:30%;
+  height:80%;
+  position:absolute;
+  margin:auto;
+  left:0px;
+  right:0px;
+  top:0px;
+  bottom:0px;
+  border:1px solid #dcdcdc;
+  border-top:2px solid #dcdcdc;
+  border-bottom-left-radius: 40px;
+}
+
+.nav {
+  position:absolute;
+  top:-42px;
+  left:-1px;
+}
+
+tabtitle {
+  font-family: 'Playfair Display', serif;
+  font-size:50px;
+  padding-bottom:10px;
+  margin-bottom:5px;
+  border-bottom:1px solid #dcdcdc;
+  text-align:center;
+  text-transform:uppercase;
+}
+tabcontent {
+  font-family: 'Roboto', sans-serif;
+  font-size:16px;
+}
